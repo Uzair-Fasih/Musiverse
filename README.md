@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-    <img width="500" src="./assets/Musiverse" alt="Musiverse">
+    <img width="500" src="./assets/Musiverse.png" alt="Musiverse">
   <br>
   <br>
 </div>
