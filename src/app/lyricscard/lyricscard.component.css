@@ -1,0 +1,23 @@
+div {
+    padding: 30px;
+    margin: auto;
+    width: 70%;
+    box-shadow: 0 0 10px #CCC;
+    display: block;
+}
+
+h3 {
+    font-size: 1rem;
+    margin: 20px;
+}
+
+pre, h3 {
+    color: #555;
+    font-family: sans-serif;
+    text-align: center;
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;   
+}

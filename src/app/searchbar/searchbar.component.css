@@ -1,0 +1,17 @@
+input {
+    padding: 15px;
+    border: none;
+    box-shadow: 0 0 10px #ccc;
+    width: 70%;
+    border-bottom: 5px solid #ADA9B4;
+    display: block;
+    margin: auto;
+}
+input:focus {
+    outline:0 ;
+}
+
+div {
+    padding: 50px 0;
+    flex: 1 0 auto;
+}
