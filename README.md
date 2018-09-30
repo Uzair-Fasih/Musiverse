@@ -14,3 +14,7 @@
 
 # Musiverse
 A simple Angular app for searching lyrics.
+
+```
+IMPORTANT: This web app has a critical vulnerability and does not bypass CORB. This app is not maintained.
+```
